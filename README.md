@@ -68,3 +68,8 @@ python manage.py makemigrations
 ```
 python manage.py migrate 
 ```
+#### Face_Detector_App
+```
+pip install opencv-python
+```
+opencv data -----> https://github.com/opencv/opencv/tree/master/data/haarcascades
